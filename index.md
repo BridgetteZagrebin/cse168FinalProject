@@ -1,6 +1,6 @@
-# Welcome to My Rendering Final Website
+# Welcome to My Rendering Final
 
-This website shows the product and explanations of the final images from extending my path tracer integrator in order to acheive more interesting image results!
+This is the product of  extending my path tracer integrator in order to acheive more interesting image results!
 
 - images
 - documentation
