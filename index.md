@@ -3,9 +3,10 @@ title: Welcome to My Rendering Final
 layout: default
 ---
 
-This is the product of  extending my path tracer integrator in order to acheive more interesting image results!
-
 # Modern Importance Sampling for Lighting and BRDFs
+
+This is the product of extending my path tracer integrator in order to acheive more interesting image results!
+
 I decidied to go on the route of enabling rendering of environment maps and BRDFs more efficiently. 
 
 Here were some strategies: 
