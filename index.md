@@ -22,7 +22,7 @@ Here were some strategies:
 ## **Documentation**
 
 **Image**
-![alt text](image.jpg)
+![sphere](https://github.com/user-attachments/assets/b5519dd7-de41-43b3-bb87-e03fdb158498)
 
 Resourses:
 - “Practical Path Guiding” by Müller et al. (2017)
