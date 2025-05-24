@@ -21,22 +21,16 @@ Here were some strategies:
 - images
 - documentation
 
-<h2 style="text-align: center;"><strong>Documentation</strong></h2>
-
-
-## **Documentation**
-
-### **Image**
-
 <p>
   <img src="https://github.com/user-attachments/assets/b5519dd7-de41-43b3-bb87-e03fdb158498" alt="sphere" width="350">
   <img src="https://github.com/user-attachments/assets/b5519dd7-de41-43b3-bb87-e03fdb158498" alt="sphere" width="350">
 </p>
 
+<h2 style="text-align: center;"><strong>Documentation</strong></h2>
 
-![sphere](https://github.com/user-attachments/assets/b5519dd7-de41-43b3-bb87-e03fdb158498)
 
-Resourses:
+
+<h2 style="text-align: center;"><strong>Resourses:</strong></h2>
 - “Practical Path Guiding” by Müller et al. (2017)
 - 2D/3D grid or BVH-like tree
 - [title](https://www.example.com)
