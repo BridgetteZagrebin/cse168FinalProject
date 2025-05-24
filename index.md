@@ -1,6 +1,6 @@
 ---
 title: 
-layout: 
+layout: default
 ---
 
 # **Modern Importance Sampling for Lighting and BRDFs**
