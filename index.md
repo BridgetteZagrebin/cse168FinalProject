@@ -22,9 +22,9 @@ Here were some strategies:
 ## **Documentation**
 
 **Image**
-
+![alt text](image.jpg)
 
 Resourses:
 - “Practical Path Guiding” by Müller et al. (2017)
 - 2D/3D grid or BVH-like tree
-- 
+- [title](https://www.example.com)
