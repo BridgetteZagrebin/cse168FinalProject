@@ -30,7 +30,7 @@ Here were some strategies:
 
 
 
-<h2 style="text-align: center;"><strong>Resourses:</strong></h2>
+<h2 style="text-align: center;"><strong>Resources:</strong></h2>
 
 - “Practical Path Guiding” by Müller et al. (2017)
 - 2D/3D grid or BVH-like tree
