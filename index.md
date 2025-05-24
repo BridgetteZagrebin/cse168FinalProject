@@ -31,6 +31,10 @@ Here were some strategies:
 
 
 <h2 style="text-align: center;"><strong>Resourses:</strong></h2>
+
 - “Practical Path Guiding” by Müller et al. (2017)
 - 2D/3D grid or BVH-like tree
+
 - [title](https://www.example.com)
+
+- Müller et al., Neural Importance Sampling, SIGGRAPH 2019.
