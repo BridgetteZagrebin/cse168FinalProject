@@ -3,10 +3,12 @@ title: .
 layout: default
 ---
 
-<p align="center">
-  <strong># **CSE Final Project**</strong><br>
-  # **CSE Final Project**
-</p>
+<h1 style="text-align: center;"><strong>CSE Final Project</strong></h1>
+
+
+<p align="center"><strong style="font-size: 2em;">CSE Final Project</strong></p>
+
+
 # **CSE Final Project**
 
 Modern Importance Sampling for Lighting and BRDFs
