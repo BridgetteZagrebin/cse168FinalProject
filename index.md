@@ -19,7 +19,7 @@ Here were some strategies:
 - documentation
 
 
-# **Documentation**
+## **Documentation**
 
 **Image**
 
