@@ -23,6 +23,12 @@ Here were some strategies:
 
 ### **Image**
 
+<p>
+  <img src="https://github.com/user-attachments/assets/b5519dd7-de41-43b3-bb87-e03fdb158498" alt="sphere" width="200">
+  <img src="https://github.com/user-attachments/assets/b5519dd7-de41-43b3-bb87-e03fdb158498" alt="sphere" width="200">
+</p>
+
+
 ![sphere](https://github.com/user-attachments/assets/b5519dd7-de41-43b3-bb87-e03fdb158498)
 
 Resourses:
