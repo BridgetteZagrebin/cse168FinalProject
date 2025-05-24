@@ -1,6 +1,5 @@
 ---
 title: Welcome to My Rendering Final
-layout: default
 ---
 
 # **Modern Importance Sampling for Lighting and BRDFs**
