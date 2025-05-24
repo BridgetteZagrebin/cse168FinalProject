@@ -3,7 +3,7 @@ title: Welcome to My Rendering Final
 layout: default
 ---
 
-# Modern Importance Sampling for Lighting and BRDFs
+# **Modern Importance Sampling for Lighting and BRDFs**
 
 This is the product of extending my path tracer integrator in order to acheive more interesting image results!
 
@@ -17,3 +17,14 @@ Here were some strategies:
 
 - images
 - documentation
+
+
+# **Documentation**
+
+**Image**
+
+
+Resourses:
+- “Practical Path Guiding” by Müller et al. (2017)
+- 2D/3D grid or BVH-like tree
+- 
