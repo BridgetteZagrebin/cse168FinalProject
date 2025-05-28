@@ -14,6 +14,7 @@ This is the product of extending my path tracer integrator in order to acheive m
 Vorba's 2017 paper on path guiding includes mis and path guiding.
 
 Left image: MIS and BRDF
+
 Right image: MIS and Path Guiding!
 <p>
   <img src="https://github.com/user-attachments/assets/e5ea2242-ce0e-4ca2-a81a-4867580f56f6" alt="cornellPG1 4" width="350">
