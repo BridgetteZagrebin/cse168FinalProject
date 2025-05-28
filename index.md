@@ -9,10 +9,18 @@ Modern Importance Sampling for Lighting and BRDFs
 
 This is the product of extending my path tracer integrator in order to acheive more interesting image results!
 
+
+<h2 style="text-align: center;"><strong>Milestone Images</strong></h2>
+Vorba's 2017 paper on path guiding includes mis and path guiding, I have 
+Left image: MIS and BRDF
+Right image: MIS and Path Guiding!
 <p>
-  <img src="https://github.com/user-attachments/assets/b5519dd7-de41-43b3-bb87-e03fdb158498" alt="sphere" width="350">
-  <img src="https://github.com/user-attachments/assets/b5519dd7-de41-43b3-bb87-e03fdb158498" alt="sphere" width="350">
+  <img src="https://github.com/user-attachments/assets/e5ea2242-ce0e-4ca2-a81a-4867580f56f6" alt="cornellPG1 4" width="350">
+  <img src="https://github.com/user-attachments/assets/2f1d23cd-9322-4318-8431-2ee262ca6235" alt="cornellPG1 3" width="350">
 </p>
+![cornellPG1 3](https://github.com/user-attachments/assets/2f1d23cd-9322-4318-8431-2ee262ca6235)
+![cornellPG1 4](https://github.com/user-attachments/assets/e5ea2242-ce0e-4ca2-a81a-4867580f56f6)
+
 
 <h2 style="text-align: center;"><strong>Documentation</strong></h2>
 
