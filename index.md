@@ -21,6 +21,7 @@ This is the product of extending my path tracer integrator in order to acheive m
 
 Here are some interesting blooper images I got while working on this project:
 
+Here, I was trying out some 3D-grid path guiding style that Muler suggested in their papers but it did not get me good results. 
 <p>
   <img src="https://github.com/user-attachments/assets/8e28c6aa-a117-416a-9394-2311ecd4e508" alt="cornellGuided" width="350">
   <img src="https://github.com/user-attachments/assets/8e28c6aa-a117-416a-9394-2311ecd4e508" alt="cornellGuided" width="350">
@@ -33,4 +34,3 @@ Here are some interesting blooper images I got while working on this project:
 - Müller et al., Neural Importance Sampling, SIGGRAPH 2019.
 - Vorba et al. (2014)
 - Vorba et al. (2017): [https://dl.acm.org/doi/abs/10.1145/2601097.2601203](https://dl.acm.org/doi/abs/10.1145/2601097.2601203)   
-       [https://dl.acm.org/doi/pdf/10.1145/2601097.2601203](https://dl.acm.org/doi/pdf/10.1145/2601097.2601203) 
