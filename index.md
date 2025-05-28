@@ -11,7 +11,8 @@ This is the product of extending my path tracer integrator in order to acheive m
 
 
 <h2 style="text-align: center;"><strong>Milestone Images</strong></h2>
-Vorba's 2017 paper on path guiding includes mis and path guiding, I have 
+Vorba's 2017 paper on path guiding includes mis and path guiding.
+
 Left image: MIS and BRDF
 Right image: MIS and Path Guiding!
 <p>
