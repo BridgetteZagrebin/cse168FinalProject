@@ -18,8 +18,10 @@ Left image: MIS and BRDF
 Right image: MIS and Path Guiding!
 <p>
   <img src="https://github.com/user-attachments/assets/e5ea2242-ce0e-4ca2-a81a-4867580f56f6" alt="cornellPG1 4" width="350">
-  <img src="https://github.com/user-attachments/assets/2f1d23cd-9322-4318-8431-2ee262ca6235" alt="cornellPG1 3" width="350">
+  <img src="https://github.com/user-attachments/assets/792697d6-9df2-407c-aa64-64cf817b5293" alt="cornellPG1 3" width="350">
 </p>
+
+
 
 <h2 style="text-align: center;"><strong>Documentation</strong></h2>
 
