@@ -32,3 +32,5 @@ Here are some interesting blooper images I got while working on this project:
 - [title](https://www.example.com)
 - Müller et al., Neural Importance Sampling, SIGGRAPH 2019.
 - Vorba et al. (2014)
+- Vorba et al. (2017): [https://dl.acm.org/doi/abs/10.1145/2601097.2601203](https://dl.acm.org/doi/abs/10.1145/2601097.2601203)   
+       [https://dl.acm.org/doi/pdf/10.1145/2601097.2601203](https://dl.acm.org/doi/pdf/10.1145/2601097.2601203) 
