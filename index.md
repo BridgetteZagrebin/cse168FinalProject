@@ -34,9 +34,4 @@ Right Images: MIS and Path Guiding!
 
 
 <h2 style="text-align: center;"><strong>Resources:</strong></h2>
-- “Practical Path Guiding” by Müller et al. (2017)
-- 2D/3D grid or BVH-like tree
-- [title](https://www.example.com)
-- Müller et al., Neural Importance Sampling, SIGGRAPH 2019.
-- Vorba et al. (2014)
 - Vorba et al. (2017): [https://dl.acm.org/doi/abs/10.1145/2601097.2601203](https://dl.acm.org/doi/abs/10.1145/2601097.2601203)   
