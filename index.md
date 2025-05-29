@@ -9,7 +9,7 @@ layout: default
 This is the product of extending my path tracer integrator in order to acheive more interesting image results!
 
 
-<h2 style="text-align: center;"><strong>Milestone Images</strong></h2>
+<h2 style="text-align: center;"><strong>Milestone Images And Documentation</strong></h2>
 Vorba's 2017 paper on path guiding includes mis and path guiding.
 Since Vorba's path guiding is meant to work better with emissive shapes, I have added these emissive spheres and this produced meaningful results.
 
