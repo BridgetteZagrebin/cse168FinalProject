@@ -21,10 +21,6 @@ Right Images: MIS and Path Guiding!
   <img src="https://github.com/user-attachments/assets/2bd23f05-be67-4079-bdc1-03e8ca385cf4" alt="cornellPG1 6" width="350">
 </p>
 
-<p>
-  <img src="https://github.com/user-attachments/assets/e5ea2242-ce0e-4ca2-a81a-4867580f56f6" alt="cornellPG1 4" width="350">
-  <img src="https://github.com/user-attachments/assets/792697d6-9df2-407c-aa64-64cf817b5293" alt="cornellPG1 3" width="350">
-</p>
 
 
 <p>
