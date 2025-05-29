@@ -6,7 +6,7 @@ layout: default
 <h1 style="text-align: center;"><strong>CSE 168 Final Project</strong></h1>
 
 
-This is the product of extending my path tracer integrator in order to acheive more interesting image results!
+This is the product of extending my path tracer integrator in order to acheive more interesting image rendering results!
 
 
 <h2 style="text-align: center;"><strong>Milestone Images And Documentation</strong></h2>
