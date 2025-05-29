@@ -3,7 +3,7 @@ title: .
 layout: default
 ---
 
-<h1 style="text-align: center;"><strong>CSE Final Project</strong></h1>
+<h1 style="text-align: center;"><strong>CSE 168 Final Project</strong></h1>
 
 
 This is the product of extending my path tracer integrator in order to acheive more interesting image results!
