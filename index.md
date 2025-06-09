@@ -71,7 +71,7 @@ For my next steps, I plan on improving the integrator I currently have. I plan t
 
 Here are some happy accidents from previous progressions throughout the project.
 
-These might have been the products of messing around with the scene test files, attempting more abstarct modern importance sampling strategy for lighting and BRDF, or that point in the milestone where I seemed to have finally gotten somewhere with path guiding!
+These might have been the products of attempting more abstarct modern importance sampling strategy for lighting and BRDF or reaching that point in the milestone where I seemed to have finally gotten somewhere with path guiding.
 
 <p>
   <img src="https://github.com/user-attachments/assets/037979bc-fb02-4f44-a29d-ce766be54951" alt="cornellPG1 2" width="240">
