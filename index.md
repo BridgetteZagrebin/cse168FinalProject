@@ -48,11 +48,11 @@ Right Images: MIS and Path Guiding!
 
 
 
-
+--------------------------------------------------------------------------------------------------
 
 <h2 style="text-align: center;"><strong>Bloopers!</strong></h2>
 
-Here are some images I got from trying out some weird things or from previous progressions in the project.
+- Here are some images I got from trying out some weird things or from previous progressions in the project.
 
 <p>
   <img src="https://github.com/user-attachments/assets/037979bc-fb02-4f44-a29d-ce766be54951" alt="cornellPG1 2" width="230">
@@ -60,8 +60,8 @@ Here are some images I got from trying out some weird things or from previous pr
   <img src="https://github.com/user-attachments/assets/2bd23f05-be67-4079-bdc1-03e8ca385cf4" alt="cornellPG1 6" width="230">
 </p>
 
+--------------------------------------------------------------------------------------------------
 
 
-
-<h2 style="text-align: center;"><strong>Resources:</strong></h2>
+## Resources:
 - Vorba (2017): [https://dl.acm.org/doi/abs/10.1145/2601097.2601203](https://dl.acm.org/doi/abs/10.1145/2601097.2601203)   
