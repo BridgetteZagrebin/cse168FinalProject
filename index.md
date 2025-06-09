@@ -69,7 +69,7 @@ For my next steps, I plan on improving the integrator I currently have. I plan t
 
 <h2 style="text-align: center;"><strong>Bloopers!</strong></h2>
 
-- Here are some images I got from trying out some weird things or from previous progressions in the project.
+- Here are some happy accidents from previous progressions throughout the project.
 
 <p>
   <img src="https://github.com/user-attachments/assets/037979bc-fb02-4f44-a29d-ce766be54951" alt="cornellPG1 2" width="230">
