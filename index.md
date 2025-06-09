@@ -17,11 +17,13 @@ Vorba's 2017 paper, "Path Guiding in Production", strives toward efficient and s
 
 For most scene files, we have the settings usually set like so:
 
-`integrator pathtracer
+```
+integrator pathtracer
 spp 164
 importancesampling pathGuiding
 nexteventestimation mis
-russianroulette on`
+russianroulette on
+```
 
 <img width="287" alt="Screenshot 2025-06-09 at 5 37 31 AM" src="https://github.com/user-attachments/assets/9dcbaef8-54e7-4afd-865c-afe81decd1b9" />
 
