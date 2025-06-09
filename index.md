@@ -63,5 +63,5 @@ Right Images: MIS and Path Guiding!
 --------------------------------------------------------------------------------------------------
 
 
-## Resources:
+## **Resources:**
 - Vorba (2017): [https://dl.acm.org/doi/abs/10.1145/2601097.2601203](https://dl.acm.org/doi/abs/10.1145/2601097.2601203)   
