@@ -15,6 +15,8 @@ Project Task: Extending my path tracer integrator with Vorba’s 2017 path guidi
 
 Vorba's 2017 paper, "Path Guiding in Production", strives toward efficient and scalable sampling of indirect illumination in complex scenes by learning where light is likely to come from during rendering. The goal is to reduce noise and variance in path tracing by improving the way directions are sampled for indirect bounces, particularly in scenes with difficult indirect lighting, such as caustics, interiors, and occluded areas.
 
+## **Scene Test Files**
+
 For most scene files, we have the settings usually set like so. Here, we highlight how Vorba uses multiple importance sampling(MIS) and path guiding. In the case of comparing the path gudiing results, when we want to view the basline, we just change the importance sampling back to bidirectional reflectance distribution function(BRDF), keeping MIS as Vorba does.:
 
 ```
@@ -25,8 +27,7 @@ nexteventestimation mis
 russianroulette on
 ```
 
-Vorba's 2017 paper on path guiding includes mis and path guiding.
-Since Vorba's path guiding is meant to work better with emissive shapes, I have added these emissive white spheres in the middle of the images and this produced meaningful results.
+Since Vorba's path guiding is meant to work better with emissive shapes, emissive white spheres were added in some of the images. This can be seen in the middle of the images like the cornell sphere scenes.
 
 Left Images: MIS and BRDF from our previous assignments
 
