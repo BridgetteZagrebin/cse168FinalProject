@@ -67,7 +67,7 @@ For my next steps, I plan on improving the integrator I currently have. I plan t
 
 --------------------------------------------------------------------------------------------------
 
-<h2 style="text-align: center;"><strong>Bloopers!</strong></h2>
+## **Bloopers!**
 
 Here are some happy accidents from previous progressions throughout the project.
 
