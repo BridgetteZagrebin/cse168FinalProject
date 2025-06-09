@@ -29,7 +29,7 @@ Since Vorba's path guiding is meant to work better with emissive shapes, emissiv
 
 ## **Image Results**
 
-BRDF(left) vs. Path Guiding(right)
+<h3 style="text-align: center;">BRDF(left) vs. Path Guiding(right)</h3> 
 
 <p>
   <img src="https://github.com/user-attachments/assets/f696ee2c-dcd0-4821-9fcc-27f724be24fd" alt="cornellPG1 5" width="350">
