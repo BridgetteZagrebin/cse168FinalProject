@@ -11,8 +11,6 @@ Project Task: Extending my path tracer integrator with Vorba’s 2017 path guidi
 
 ## **Path Guiding**
 
-
-
 Vorba's 2017 paper, "Path Guiding in Production", strives toward efficient and scalable sampling of indirect illumination in complex scenes by learning where light is likely to come from during rendering. The goal is to reduce noise and variance in path tracing by improving the way directions are sampled for indirect bounces, particularly in scenes with difficult indirect lighting, such as caustics, interiors, and occluded areas.
 
 ## **Scene Test Files**
@@ -31,9 +29,8 @@ Since Vorba's path guiding is meant to work better with emissive shapes, emissiv
 
 ## **Image Results**
 
-Left Images: MIS and BRDF from our previous assignments
+BRDF(left) vs. Path Guiding(right)
 
-Right Images: MIS and Path Guiding!
 <p>
   <img src="https://github.com/user-attachments/assets/f696ee2c-dcd0-4821-9fcc-27f724be24fd" alt="cornellPG1 5" width="350">
   <img src="https://github.com/user-attachments/assets/2bd23f05-be67-4079-bdc1-03e8ca385cf4" alt="cornellPG1 6" width="350">
