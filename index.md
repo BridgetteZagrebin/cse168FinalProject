@@ -42,6 +42,14 @@ Right Images: MIS and Path Guiding!
 
 
 
+
+
+
+
+
+
+
+
 <h2 style="text-align: center;"><strong>Bloopers!</strong></h2>
 
 Here are some images I got from trying out some weird things or from previous progressions in the project.
