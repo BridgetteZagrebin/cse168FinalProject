@@ -45,7 +45,7 @@ Since Vorba's path guiding is meant to work better with emissive shapes, emissiv
 
 
 
-## **Within the Code**
+## **What was done to achieve this?**
 
 Vorba’s 2017 path guiding is meant to adaptively learn where to send rays based on previously gathered radiance information. This approach targets improvements in convergence, especially in scenes with complex indirect lighting.	
 
