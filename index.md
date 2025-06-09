@@ -9,7 +9,7 @@ Project Task: Extending my path tracer integrator with Vorba’s 2017 path guidi
 
 --------------------------------------------------------------------------------------------------
 
-<h2 style="text-align: center;"><strong>Path Guiding</strong></h2>
+## **Path Guiding**
 
 
 
