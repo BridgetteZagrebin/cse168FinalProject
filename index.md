@@ -27,7 +27,9 @@ nexteventestimation mis
 russianroulette on
 ```
 
-Since Vorba's path guiding is meant to work better with emissive shapes, emissive white spheres were added in some of the images. This can be seen in the middle of the images like the cornell sphere scenes.
+Since Vorba's path guiding is meant to work better with emissive shapes, emissive white spheres were added in some of the scenes. This can be seen in the middle of the images like the cornell sphere scenes.
+
+## **Image Results**
 
 Left Images: MIS and BRDF from our previous assignments
 
