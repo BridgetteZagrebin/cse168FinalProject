@@ -5,8 +5,7 @@ layout: default
 
 <h1 style="text-align: center;"><strong>CSE 168 Final Project</strong></h1>
 
-
-This is the product of extending my path tracer integrator in order to acheive more interesting image rendering results!
+Project Task: Extending my path tracer integrator with Vorba’s 2017 path guiding (a modern importance sampling strategy for lighting and BRDF).
 
 --------------------------------------------------------------------------------------------------
 
