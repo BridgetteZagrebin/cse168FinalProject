@@ -9,7 +9,14 @@ Project Task: Extending my path tracer integrator with Vorba’s 2017 path guidi
 
 --------------------------------------------------------------------------------------------------
 
-<h2 style="text-align: center;"><strong>Milestone Images And Documentation</strong></h2>
+<h2 style="text-align: center;"><strong>Path Guiding</strong></h2>
+
+
+
+Vorba's 2017 paper, "Path Guiding in Production", strives toward efficient and scalable sampling of indirect illumination in complex scenes by learning where light is likely to come from during rendering. The goal is to reduce noise and variance in path tracing by improving the way directions are sampled for indirect bounces, particularly in scenes with difficult indirect lighting, such as caustics, interiors, and occluded areas.
+
+
+
   Vorba's 2017 paper on path guiding includes mis and path guiding.
 Since Vorba's path guiding is meant to work better with emissive shapes, I have added these emissive white spheres in the middle of the images and this produced meaningful results.
 
