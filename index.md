@@ -55,14 +55,11 @@ Right Images: MIS and Path Guiding!
 Here are some images I got from trying out some weird things or from previous progressions in the project.
 
 <p>
-  <img src="https://github.com/user-attachments/assets/037979bc-fb02-4f44-a29d-ce766be54951" alt="cornellPG1 2" width="350">
-  <img src="https://github.com/user-attachments/assets/fb4e57a9-684c-4c50-89f8-d007a7342a9a" alt="cornellPG1" width="350">
+  <img src="https://github.com/user-attachments/assets/037979bc-fb02-4f44-a29d-ce766be54951" alt="cornellPG1 2" width="225">
+  <img src="https://github.com/user-attachments/assets/fb4e57a9-684c-4c50-89f8-d007a7342a9a" alt="cornellPG1" width="225">
+  <img src="https://github.com/user-attachments/assets/2bd23f05-be67-4079-bdc1-03e8ca385cf4" alt="cornellPG1 6" width="225">
 </p>
 
-<p>
-  <img src="https://github.com/user-attachments/assets/2bd23f05-be67-4079-bdc1-03e8ca385cf4" alt="cornellPG1 6" width="350">
-  <img src="https://github.com/user-attachments/assets/2bd23f05-be67-4079-bdc1-03e8ca385cf4" alt="cornellPG1 6" width="350">
-</p>
 
 
 
