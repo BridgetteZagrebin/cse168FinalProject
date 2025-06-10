@@ -53,9 +53,8 @@ To view more drastic differences in the images, I messed with the quad lights a 
 
 <p>
   <img src="https://github.com/user-attachments/assets/1a3e2e25-0b03-4cf4-8c60-c71350425656" alt="cornellPG1 9" width="350">
-  <img src="" alt="cornellPG2 5" width="350">
+  <img src="https://github.com/user-attachments/assets/a7a6e24f-7862-4599-a7d0-bedd22733dd1" alt="cornellPG1 11" width="350">
 </p>
-
 
 
 ## **What was done to achieve this?**
