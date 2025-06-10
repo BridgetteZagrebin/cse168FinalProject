@@ -34,6 +34,13 @@ To view more drastic differences in the images, I messed with the quad lights a 
 <h3 style="text-align: center;">BRDF(left) vs. Path Guiding(right)</h3> 
 
 <p>
+  <img src="https://github.com/user-attachments/assets/e88a37f7-abab-48ad-851e-eae89b8ea920" alt="cornellPG5 2" width="350">
+  <img src="https://github.com/user-attachments/assets/910fc61d-d9b3-497a-b581-4b2eecda918c" alt="cornellPG5" width="350">
+</p>
+
+
+
+<p>
   <img src="https://github.com/user-attachments/assets/f696ee2c-dcd0-4821-9fcc-27f724be24fd" alt="cornellPG1 5" width="350">
   <img src="https://github.com/user-attachments/assets/2bd23f05-be67-4079-bdc1-03e8ca385cf4" alt="cornellPG1 6" width="350">
 </p>
@@ -55,7 +62,7 @@ Thus, the goal here was for the images above to show the interactions of integra
 
 After the milestone, I was able to lessen the amount of noise. Something else that seemed to have made a difference in the rendering was delaying guiding updates until after the first diffuse bounce to avoid bias from direct lighting. Extremely high radiance contributions were clamped to prevent instability in the learning process. After lots of trial and error, the guiding data finally seemed to have stabilized.
 
-I ended up using multiple scenes from the previous assignments and messing with lighting, emission, and many other things to test what brought out more improvements, compared running with the basline brdf+mis scenes.
+I ended up using multiple scenes from the previous assignments and messing with lighting, emission, and many other things to test what brought out more improvements, compared running with the basline brdf+mis scenes. There did seem to be some difference between just using BRDF vs. using path guiding. Path guiding seemed to have brought out a more realistic look to the scenes like the dragon. The lighting looked much more converged to its true self. 
 
 Overall, at times, I let the project become 'inspired' by Vorba rather than being so strict. This was due to time limitations and me trying to tie in path guiding to what we have learned and implemented throughout the quarter. Vorba did speak of multiple state-of-the-art complex methods and was a bit vague on them at times but the work from this course did seem to fill in some blanks or misundertsandings from my end.
 
