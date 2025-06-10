@@ -51,20 +51,7 @@ To view more drastic differences in the images, I messed with the quad lights a 
   <img src="https://github.com/user-attachments/assets/ea15e5c4-c0fe-4906-a191-65ea134cabf0" alt="cornellPG2 5" width="350">
 </p>
 
-![cornellPG2 7](https://github.com/user-attachments/assets/f27eb1f3-dd72-4ded-934c-039e1a448fdd)
 
-
-<p>
-  <img src="https://github.com/user-attachments/assets/f696ee2c-dcd0-4821-9fcc-27f724be24fd" alt="cornellPG1 5" width="350">
-  <img src="https://github.com/user-attachments/assets/2bd23f05-be67-4079-bdc1-03e8ca385cf4" alt="cornellPG1 6" width="350">
-</p>
-
-
-
-<p>
-  <img src="https://github.com/user-attachments/assets/0aaa5f69-94f4-4df4-a7b5-003b2cffa3f6" alt="cornellPG2" width="350">
-  <img src="https://github.com/user-attachments/assets/6fceacba-079f-4f33-8170-47bc4b032828" alt="cornellPG2 2" width="350">
-</p>
 
 
 
