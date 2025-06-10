@@ -27,6 +27,8 @@ russianroulette on
 
 The samples per pixel(SPP) may be increased for some scenes for less noisy images.
 
+Gamma was ignored in these images since they were not within Vorba's path guiding and it seemed to cause some conflict when interacting with the path guiding changes. 
+
 To view more drastic differences in the images, I messed with the quad lights a bit. This is to show how Vorba's path guiding samples bright indirect bounces more accuratly, while the baseline BRDF tends to undersample.
 
 ## **Image Results**
@@ -52,6 +54,11 @@ To view more drastic differences in the images, I messed with the quad lights a 
   <img src="https://github.com/user-attachments/assets/6fceacba-079f-4f33-8170-47bc4b032828" alt="cornellPG2 2" width="350">
 </p>
 
+
+<p>
+  <img src="https://github.com/user-attachments/assets/0aaa5f69-94f4-4df4-a7b5-003b2cffa3f6" alt="cornellPG2" width="350">
+  <img src="https://github.com/user-attachments/assets/4c229f30-99f8-4599-b81c-5aa604aac4c4" alt="cornellPG2 3" width="350">
+</p>
 
 
 ## **What was done to achieve this?**
