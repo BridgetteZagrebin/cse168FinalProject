@@ -27,9 +27,7 @@ russianroulette on
 
 The samples per pixel(SPP) may be increased for some scenes for less noisy images.
 
-Since Vorba's path guiding is meant to work better with emissive shapes, emissive white spheres were added in some of the scenes. This can be seen in the middle of the images like the cornell sphere scenes.
-
-To view more drastic differences in the images, I am using brighter lit scenes. This is to show how Vorba's path guiding samples bright indirect bounces more accuratly, while the baseline BRDF tends to undersample.
+To view more drastic differences in the images, I messed with the quad lights a bit. This is to show how Vorba's path guiding samples bright indirect bounces more accuratly, while the baseline BRDF tends to undersample.
 
 ## **Image Results**
 
