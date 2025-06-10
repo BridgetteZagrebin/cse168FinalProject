@@ -40,11 +40,16 @@ To view more drastic differences in the images, I messed with the quad lights a 
   <img src="https://github.com/user-attachments/assets/910fc61d-d9b3-497a-b581-4b2eecda918c" alt="cornellPG5" width="350">
 </p>
 
+Here was have sphere images with(top) and without(without) gamma correction:
 <p>
   <img src="https://github.com/user-attachments/assets/7d881d42-d359-4290-b4be-8efcb0288bf0" alt="cornellPG2 4" width="350">
   <img src="https://github.com/user-attachments/assets/4c229f30-99f8-4599-b81c-5aa604aac4c4" alt="cornellPG2 3" width="350">
 </p>
 
+<p>
+  <img src="https://github.com/user-attachments/assets/b0b224e7-b231-4065-ba2f-cf1fce934c28" alt="cornellPG2 6" width="350">
+  <img src="https://github.com/user-attachments/assets/ea15e5c4-c0fe-4906-a191-65ea134cabf0" alt="cornellPG2 5" width="350">
+</p>
 
 <p>
   <img src="https://github.com/user-attachments/assets/f696ee2c-dcd0-4821-9fcc-27f724be24fd" alt="cornellPG1 5" width="350">
