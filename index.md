@@ -29,7 +29,7 @@ The samples per pixel(SPP) may be increased for some scenes for less noisy image
 
 Since Vorba's path guiding is meant to work better with emissive shapes, emissive white spheres were added in some of the scenes. This can be seen in the middle of the images like the cornell sphere scenes.
 
-To view more drastic differences in the images, I am using brighter lit scenes. This is to show how Vorba's path guiding can make quite the difference in rendered images.
+To view more drastic differences in the images, I am using brighter lit scenes. This is to show how Vorba's path guiding samples bright indirect bounces more accuratly, while the baseline BRDF tends to undersample.
 
 ## **Image Results**
 
@@ -84,6 +84,7 @@ These might have been the products of attempting more abstarct modern importance
 </p>
 
 <p>
+  <img src="https://github.com/user-attachments/assets/35db7ffb-1180-41b8-bea8-794e468e5ef1" alt="cornellPG1 8" width="240">
   <img src="https://github.com/user-attachments/assets/2bd23f05-be67-4079-bdc1-03e8ca385cf4" alt="cornellPG1 6" width="240">
 </p>
 
