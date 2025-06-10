@@ -27,6 +27,8 @@ russianroulette on
 
 Since Vorba's path guiding is meant to work better with emissive shapes, emissive white spheres were added in some of the scenes. This can be seen in the middle of the images like the cornell sphere scenes.
 
+To view more drastic differences in the images, I am using brighter lit scenes. This is to show how Vorba's path guiding can make quite the difference in rendered images.
+
 ## **Image Results**
 
 <h3 style="text-align: center;">BRDF(left) vs. Path Guiding(right)</h3> 
